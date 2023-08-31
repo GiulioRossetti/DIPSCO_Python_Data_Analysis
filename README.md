@@ -1,2 +1,2 @@
-# DIPSCO_Python_Data_Analysis
-Introductory course on Data Analysis in Python @ DIPSCO
+# Python Data Analysis @ DIPSCO 
+Introductory course on Data Analysis in Python 
